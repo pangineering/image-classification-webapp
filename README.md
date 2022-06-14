@@ -21,4 +21,4 @@
 [1] Currently the file upload only accepts one image at a time.
 
 ## Screenshots
-![home_screen.png](/screen_shot_2565-06-14_at_16.06.16.png =70%x)
+![home_screen.png](/home_screen.png =70%x)
