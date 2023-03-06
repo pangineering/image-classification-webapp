@@ -120,7 +120,8 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTACT -->
 ## Contact
 
-Pan - Pangineering
+[Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic) pangineering@gmail.com
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic)](https://twitter.com/pangineering)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
