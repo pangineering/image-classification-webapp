@@ -120,9 +120,8 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Pan - Pangineering
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic)](https://twitter.com/pangineering)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
