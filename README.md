@@ -120,9 +120,10 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTACT -->
 ## Contact
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic) pangineering@gmail.com
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](pangineering@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic)](https://twitter.com/pangineering)
+![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff&style=plastic)
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=plastic)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
