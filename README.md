@@ -27,9 +27,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-x
     <li><a href="#contact">Contact</a></li>
-x
   </ol>
 </details>
 
