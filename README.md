@@ -37,7 +37,8 @@
 ## About The Project
 
 <img src="./images/home_screen.png" alt="screen">
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+
+The Image Classification Webapp is an AI-powered project that uses deep learning to classify an image. Developed using the CIFAR10 dataset and Flask, the project provides a user-friendly interface for users to upload an image and get the output as text, indicating the category of the image.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
